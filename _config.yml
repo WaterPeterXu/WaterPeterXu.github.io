@@ -1,5 +1,7 @@
-title:             Test Blog
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
+theme: jekyll-theme-midnight
+
+#title:             Test Blog
+#description:       A Blog Theme by Start Bootstrap
+#author:            Start Bootstrap
+#baseurl:           "/startbootstrap-clean-blog-jekyll"
+#url:               "http://blackrockdigital.github.io"
